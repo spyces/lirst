@@ -1,0 +1,10 @@
+table,
+td{
+	border: 1px solid green;
+}
+
+thead,
+tfoot {
+	background-color:green;
+	color: #fff;
+}
